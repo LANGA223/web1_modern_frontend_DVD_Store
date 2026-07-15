@@ -1,1 +1,4 @@
 node_modules
+git add .gitignore
+git commit -m "Remove node_modules from Git"
+git push
